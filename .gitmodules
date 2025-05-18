@@ -1,3 +1,96 @@
 [submodule "stable-diffusion-prompt-reader"]
 	path = stable-diffusion-prompt-reader
 	url = https://github.com/receyuki/stable-diffusion-prompt-reader.git
+[submodule "comfyui-reactor-node"]
+	path = comfyui-reactor-node
+	url = https://codeberg.org/Gourieff/comfyui-reactor-node.git
+[submodule "ComfyUI-WildPromptor"]
+	path = ComfyUI-WildPromptor
+	url = https://github.com/1038lab/ComfyUI-WildPromptor.git
+[submodule "cg-image-filter"]
+	path = cg-image-filter
+	url = https://github.com/chrisgoringe/cg-image-filter.git
+[submodule "CharacterFaceSwap"]
+	path = CharacterFaceSwap
+	url = https://github.com/ArtBot2023/CharacterFaceSwap.git
+[submodule "ComfyUI-iTools"]
+	path = ComfyUI-iTools
+	url = https://github.com/MohammadAboulEla/ComfyUI-iTools.git
+[submodule "ComfyUI-bleh"]
+	path = ComfyUI-bleh
+	url = https://github.com/blepping/ComfyUI-bleh.git
+[submodule "comfyui_jankhidiffusion"]
+	path = comfyui_jankhidiffusion
+	url = https://github.com/blepping/comfyui_jankhidiffusion.git
+[submodule "comfyui_jankdiffusehigh"]
+	path = comfyui_jankdiffusehigh
+	url = https://github.com/blepping/comfyui_jankdiffusehigh.git
+[submodule "comfyui-lama-remover"]
+	path = comfyui-lama-remover
+	url = https://github.com/Layer-norm/comfyui-lama-remover.git
+[submodule "mikey_nodes"]
+	path = mikey_nodes
+	url = https://github.com/bash-j/mikey_nodes.git
+[submodule "ComfyUI-Lora-Manager"]
+	path = ComfyUI-Lora-Manager
+	url = https://github.com/willmiao/ComfyUI-Lora-Manager.git
+[submodule "kaytool"]
+	path = kaytool
+	url = https://github.com/kk8bit/kaytool.git
+[submodule "DZ-FaceDetailer"]
+	path = DZ-FaceDetailer
+	url = https://github.com/nicofdga/DZ-FaceDetailer.git
+[submodule "facerestore_cf"]
+	path = facerestore_cf
+	url = https://github.com/mav-rik/facerestore_cf.git
+[submodule "comfyui-prompt-reader-node"]
+	path = comfyui-prompt-reader-node
+	url = https://github.com/receyuki/comfyui-prompt-reader-node.git
+[submodule "ComfyUI-Miaoshouai-Tagger"]
+	path = ComfyUI-Miaoshouai-Tagger
+	url = https://github.com/miaoshouai/ComfyUI-Miaoshouai-Tagger.git
+[submodule "ComfyUI-AutomaticCFG"]
+	path = ComfyUI-AutomaticCFG
+	url = https://github.com/Extraltodeus/ComfyUI-AutomaticCFG.git
+[submodule "cg-use-everywhere"]
+	path = cg-use-everywhere
+	url = https://github.com/chrisgoringe/cg-use-everywhere.git
+[submodule "cg-controller"]
+	path = cg-controller
+	url = https://github.com/chrisgoringe/cg-controller.git
+[submodule "ComfyUI_essentials"]
+	path = ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials.git
+[submodule "ComfyUI_IPAdapter_plus"]
+	path = ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+[submodule "ComfyUI-Custom-Scripts"]
+	path = ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+[submodule "ComfyUI-Impact-Pack"]
+	path = ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+[submodule "ComfyUI-Manager"]
+	path = ComfyUI-Manager
+	url = https://github.com/Comfy-Org/ComfyUI-Manager.git
+[submodule "rgthree-comfy"]
+	path = rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy.git
+[submodule "ComfyUI-Easy-Use"]
+	path = ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use.git
+[submodule "was-node-suite-comfyui"]
+	path = was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui.git
+[submodule "efficiency-nodes-comfyui"]
+	path = efficiency-nodes-comfyui
+	url = https://github.com/jags111/efficiency-nodes-comfyui.git
+[submodule "ComfyUI-RMBG"]
+	path = ComfyUI-RMBG
+	url = https://github.com/1038lab/ComfyUI-RMBG.git
+[submodule "comfyui_segment_anything"]
+	path = comfyui_segment_anything
+	url = https://github.com/storyicon/comfyui_segment_anything.git
+[submodule "ComfyUI_Comfyroll_CustomNodes"]
+	path = ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
